@@ -1,7 +1,7 @@
 # **Summary**
 
 
-  The Music-Recommender-System uses decision trees, Sklearn, and pandas to recommend songs to users based on their age, gender, and preferred genres. The dataset used for this project is music.csv, which contains information about the ages, genders, and preferred genres of 20 users.
+  The Music-Recommender-System uses decision trees, Sklearn, and pandas to recommend songs/genres to users based on their age, gender, and preferred genres. The dataset used for this project is music.csv, which contains information about the ages, genders, and preferred genres of 20 users.
     
   The system is implemented in Python and is divided into three main parts:
     
